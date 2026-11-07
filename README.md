@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 **I believe technology should be evaluated not only by what it can do, but by how well it serves the people who depend on it.**
 
+**Explore my work:** [AI Response Quality Evaluation — case studies and scoring rubric](https://github.com/davidfbrake/ai-response-quality-evaluation)
+
 I'm a human services professional, disability advocate, and technology evaluator transitioning into AI quality assurance and responsible AI.
 
 My professional background spans client intake, case documentation, digital literacy, public benefits, and disability advocacy. During my AmeriCorps service with Delaware State Libraries, I prepared an assessment of the Northstar Digital Literacy program, applying analytical and reporting skills to a real-world technology initiative.
@@ -56,7 +58,7 @@ I am a member of the Tech Council of Delaware and actively follow discussions su
 
 ## About This Portfolio
 
-This GitHub profile will document independent projects demonstrating AI evaluation methods, structured quality reviews, accessibility analysis, and evidence-based recommendations.
+This GitHub profile documents independent projects demonstrating AI evaluation methods, structured quality reviews, accessibility analysis, and evidence-based recommendations. Two completed case studies are available in my AI Response Quality Evaluation repository.
 
 My goal is to make my evaluation process transparent, reproducible, and useful to organizations developing trustworthy AI systems.
 
